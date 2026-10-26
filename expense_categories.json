@@ -1,0 +1,129 @@
+{
+  "categories": {
+    "Food": [
+      "Groceries",
+      "Restaurants",
+      "Cafes",
+      "Takeaway & Delivery",
+      "Snacks",
+      "Fruits & Vegetables",
+      "Dairy",
+      "Meat & Seafood"
+    ],
+    "Transport": [
+      "Public Transport",
+      "Taxi & Ride-hailing",
+      "Fuel",
+      "Parking",
+      "Tolls",
+      "Vehicle Maintenance",
+      "Vehicle Insurance",
+      "Bike & Scooter"
+    ],
+    "Housing": [
+      "Rent",
+      "Mortgage",
+      "Home Repairs",
+      "Furniture",
+      "Home Appliances",
+      "Property Tax",
+      "Home Insurance",
+      "Society Maintenance"
+    ],
+    "Utilities": [
+      "Electricity",
+      "Water",
+      "Gas",
+      "Internet",
+      "Mobile Phone",
+      "TV & Streaming Services"
+    ],
+    "Shopping": [
+      "Clothing",
+      "Footwear",
+      "Accessories",
+      "Electronics",
+      "Personal Items",
+      "Online Shopping",
+      "Gifts"
+    ],
+    "Health": [
+      "Medicines",
+      "Doctor Visits",
+      "Dental Care",
+      "Medical Tests",
+      "Health Insurance",
+      "Fitness & Gym",
+      "Mental Wellness"
+    ],
+    "Entertainment": [
+      "Movies",
+      "Concerts & Events",
+      "Games",
+      "Hobbies",
+      "Books",
+      "Subscriptions",
+      "Outings"
+    ],
+    "Education": [
+      "Tuition & Fees",
+      "Books & Stationery",
+      "Online Courses",
+      "Certifications",
+      "School & College Supplies",
+      "Exam Fees"
+    ],
+    "Personal Care": [
+      "Haircut & Salon",
+      "Skincare",
+      "Cosmetics",
+      "Toiletries",
+      "Laundry"
+    ],
+    "Travel": [
+      "Flights",
+      "Train Tickets",
+      "Bus Tickets",
+      "Hotels & Accommodation",
+      "Local Sightseeing",
+      "Travel Insurance",
+      "Visa & Passport"
+    ],
+    "Family & Kids": [
+      "Childcare",
+      "School Expenses",
+      "Toys",
+      "Baby Supplies",
+      "Family Activities"
+    ],
+    "Pets": [
+      "Pet Food",
+      "Veterinary Care",
+      "Pet Supplies",
+      "Pet Grooming"
+    ],
+    "Finance": [
+      "Bank Fees",
+      "Loan Repayment",
+      "Credit Card Payment",
+      "Taxes",
+      "Investment Fees"
+    ],
+    "Gifts & Donations": [
+      "Gifts",
+      "Charity",
+      "Religious Donations",
+      "Celebrations"
+    ],
+    "Work": [
+      "Office Supplies",
+      "Work Travel",
+      "Professional Memberships",
+      "Software & Tools"
+    ],
+    "Other": [
+      "Miscellaneous",
+      "Uncategorized"
+    ]
+  }
+}
